@@ -103,6 +103,24 @@ I am interested in opportunities including:
 * DevOps Engineer
 * DevSecOps Engineer
 
+## Featured Projects
+
+### [Ansible RHEL Patching Framework](https://github.com/solonsah/ansible-rhel-patching)
+
+A production-oriented Ansible framework for safely patching Red Hat Enterprise Linux systems using prechecks, controlled rolling batches, reboot management, post-patch validation, and automated syntax testing.
+
+**Key capabilities:**
+
+- Pre-patching validation and safety checks
+- Controlled rolling updates to reduce operational risk
+- Conditional reboot management
+- Post-patching health verification
+- Reusable Ansible role structure
+- GitHub Actions automated syntax validation
+- Sanitized lab inventory with documentation-only IP addresses
+
+**Technologies:** Ansible, RHEL, YAML, Linux, GitHub Actions, Infrastructure as Code
+
 ## Portfolio Notice
 
 The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
