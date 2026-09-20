@@ -139,7 +139,7 @@ A production-oriented Ansible framework for safely patching Red Hat Enterprise L
 The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
 
 
-### Hyper-V to KVM Migration Framework
+### [Hyper-V to KVM Migration Framework](https://github.com/solonsah/hyperv-to-kvm-migration)
 
 A structured and safety-focused framework for migrating RHEL virtual machines from Microsoft Hyper-V to KVM/libvirt.
 
@@ -158,7 +158,7 @@ A structured and safety-focused framework for migrating RHEL virtual machines fr
 [View the Hyper-V to KVM Migration Framework](https://github.com/solonsah/hyperv-to-kvm-migration)
 
 
-### Secure AWS Web Infrastructure
+### [Secure AWS Web Infrastructure](https://github.com/solonsah/aws-secure-web-infrastructure)
 
 A modular Terraform project that models a secure and highly available AWS web tier across two Availability Zones.
 
