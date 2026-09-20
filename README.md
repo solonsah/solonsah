@@ -7,6 +7,19 @@ I am a Senior Linux Infrastructure Engineer with eight-plus years of experience 
 
 My work focuses on designing secure, reliable, repeatable, and well-documented infrastructure solutions. I have experience supporting physical, virtual, on-premises, and cloud-based environments.
 
+## Technical Skills
+
+- **Operating Systems:** Red Hat Enterprise Linux 7, 8 and 9; Windows Server
+- **Automation:** Ansible, Bash, GitHub Actions
+- **Virtualization:** KVM, QEMU, libvirt, VMware ESXi, Microsoft Hyper-V
+- **Cloud Platforms:** AWS, Microsoft Azure
+- **Linux Administration:** Systemd, LVM, XFS, SSH, firewalld, SELinux, DNF and YUM
+- **Web and Application Servers:** Apache HTTP Server, Apache Tomcat
+- **Databases:** MariaDB, MySQL
+- **Monitoring:** Prometheus, Grafana, Datadog, Dynatrace, CloudWatch
+- **Security:** STIG implementation, vulnerability remediation, system hardening
+- **DevOps Tools:** Git, GitHub, VS Code
+
 ## Core Technical Skills
 
 ### Linux and Systems Administration
