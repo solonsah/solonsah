@@ -116,6 +116,10 @@ I am interested in opportunities including:
 * DevOps Engineer
 * DevSecOps Engineer
 
+## Portfolio Notice
+
+The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
+
 ## Featured Projects
 
 ### [Ansible RHEL Patching Framework](https://github.com/solonsah/ansible-rhel-patching)
@@ -134,9 +138,6 @@ A production-oriented Ansible framework for safely patching Red Hat Enterprise L
 
 **Technologies:** Ansible, RHEL, YAML, Linux, GitHub Actions, Infrastructure as Code
 
-## Portfolio Notice
-
-The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
 
 [View the Ansible RHEL Patching Framework project](https://github.com/solonsah/ansible-rhel-patching)
 
