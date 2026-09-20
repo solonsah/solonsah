@@ -138,6 +138,8 @@ A production-oriented Ansible framework for safely patching Red Hat Enterprise L
 
 The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
 
+[View the Ansible RHEL Patching Framework project](https://github.com/solonsah/ansible-rhel-patching)
+
 
 ### [Hyper-V to KVM Migration Framework](https://github.com/solonsah/hyperv-to-kvm-migration)
 
