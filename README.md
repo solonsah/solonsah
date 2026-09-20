@@ -156,3 +156,24 @@ A structured and safety-focused framework for migrating RHEL virtual machines fr
 **Technologies:** RHEL, Hyper-V, KVM, QEMU, libvirt, Bash, ShellCheck, GitHub Actions
 
 [View the Hyper-V to KVM Migration Framework](https://github.com/solonsah/hyperv-to-kvm-migration)
+
+
+### Secure AWS Web Infrastructure
+
+A modular Terraform project that models a secure and highly available AWS web tier across two Availability Zones.
+
+**Key capabilities:**
+
+- Reusable networking, security, and compute modules
+- Public load-balancer and private application subnets
+- HTTPS-only public ingress
+- No direct inbound SSH access
+- EC2 Auto Scaling and load-balancer health checks
+- Required EC2 Instance Metadata Service Version 2
+- Encrypted EBS root volumes
+- Cost-aware networking design
+- Automated Terraform formatting and validation
+
+**Technologies:** AWS, Terraform, VPC, EC2, Auto Scaling, Application Load Balancer, Security Groups, EBS, GitHub Actions
+
+[View the Secure AWS Web Infrastructure project](https://github.com/solonsah/aws-secure-web-infrastructure)
