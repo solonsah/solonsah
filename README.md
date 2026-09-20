@@ -125,3 +125,21 @@ A production-oriented Ansible framework for safely patching Red Hat Enterprise L
 
 The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
 
+
+### Hyper-V to KVM Migration Framework
+
+A structured and safety-focused framework for migrating RHEL virtual machines from Microsoft Hyper-V to KVM/libvirt.
+
+**Key capabilities:**
+
+- Pre-migration source, guest, storage, and network checks
+- RHEL guest preparation for VirtIO compatibility
+- Virtual disk conversion planning and validation
+- KVM/libvirt host-readiness checks
+- Post-migration system and application validation
+- Documented rollback and recovery controls
+- Automated ShellCheck validation with GitHub Actions
+
+**Technologies:** RHEL, Hyper-V, KVM, QEMU, libvirt, Bash, ShellCheck, GitHub Actions
+
+[View the Hyper-V to KVM Migration Framework](https://github.com/solonsah/hyperv-to-kvm-migration)
