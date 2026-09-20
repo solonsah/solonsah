@@ -1,16 +1,109 @@
 ## Hi there 👋
+# Solomon Nsah
 
-<!--
-**solonsah/solonsah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Senior Linux Infrastructure Engineer
 
-Here are some ideas to get you started:
+I am a Senior Linux Infrastructure Engineer with eight-plus years of experience supporting Linux systems, automation, security hardening, virtualization, cloud infrastructure, monitoring, and production operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My work focuses on designing secure, reliable, repeatable, and well-documented infrastructure solutions. I have experience supporting physical, virtual, on-premises, and cloud-based environments.
+
+## Core Technical Skills
+
+### Linux and Systems Administration
+
+* Red Hat Enterprise Linux 7, 8, and 9
+* Amazon Linux
+* System installation, configuration, maintenance, and troubleshooting
+* Package, kernel, service, process, and lifecycle management
+* User, group, permissions, sudo, and SSH administration
+* LVM, XFS, ext4, NFS, storage expansion, and filesystem recovery
+* DNS, DHCP, routing, firewalld, iptables, and network troubleshooting
+
+### Automation and Infrastructure as Code
+
+* Ansible
+* Bash scripting
+* Terraform
+* Cron and systemd automation
+* Automated patching, configuration management, health checks, and reporting
+* Repeatable deployment, validation, and rollback workflows
+
+### Security and Compliance
+
+* Security Technical Implementation Guides
+* OpenSCAP and vulnerability remediation
+* SELinux and auditd
+* System hardening
+* Identity and access management
+* Role-based access control
+* TLS and certificate management
+* Vulnerability discovery, validation, and remediation
+
+### Cloud and Virtualization
+
+* Amazon Web Services
+* Microsoft Azure
+* KVM, QEMU, and libvirt
+* VMware and Hyper-V
+* EC2, EBS, S3, RDS, IAM, VPC, Route 53, and CloudWatch
+* Virtual machine provisioning, migration, backup, and recovery
+
+### Application Platforms
+
+* Apache HTTP Server
+* Apache Tomcat
+* MariaDB and MySQL
+* Docker and Kubernetes
+* Application deployment, upgrades, TLS configuration, and troubleshooting
+
+### Monitoring and Reliability
+
+* Prometheus and Grafana
+* Datadog
+* Dynatrace
+* Splunk
+* AWS CloudWatch
+* Incident response
+* Root-cause analysis
+* Performance monitoring and capacity planning
+
+## Portfolio Projects
+
+1. Ansible RHEL patching framework
+2. Hyper-V to KVM migration framework
+3. RHEL security-hardening automation
+4. Linux vulnerability-audit toolkit
+5. Apache and Tomcat operations
+6. Linux observability and incident-response lab
+7. AWS hybrid-infrastructure deployment
+8. Highly available application-infrastructure lab
+
+## Engineering Approach
+
+I approach infrastructure work using:
+
+* Read-only discovery before making changes
+* Development and test validation before production rollout
+* Security-conscious automation
+* Phased and controlled implementation
+* Change control and documented approvals
+* Backup and rollback planning
+* Post-change system and application validation
+* Clear runbooks, implementation plans, and technical documentation
+
+## Professional Focus
+
+I am interested in opportunities including:
+
+* Senior Linux Systems Engineer
+* Senior Systems Administrator
+* Cloud Infrastructure Engineer
+* Platform Engineer
+* Site Reliability Engineer
+* DevOps Engineer
+* DevSecOps Engineer
+
+## Portfolio Notice
+
+The projects published through this profile are sanitized lab implementations. All hostnames, addresses, accounts, credentials, organizations, and environment-specific values are fictional. This profile includes no confidential employer, customer, or production information.
+
