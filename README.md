@@ -198,3 +198,19 @@ A safety-focused Linux auditing toolkit for discovering vulnerable and unsupport
 [View the Linux Vulnerability Audit project](https://github.com/solonsah/linux-vulnerability-audit)
 
 
+### [Apache Tomcat Operations](https://github.com/solonsah/apache-tomcat-operations)
+
+A production-oriented framework for safely managing, validating, securing, and upgrading Apache Tomcat on Linux.
+
+- Read-only Tomcat and Java discovery
+- Bash and Ansible operational prechecks
+- Security and configuration baseline
+- Side-by-side upgrade planning
+- Defined validation and rollback controls
+- Automated ShellCheck, YAML, and Ansible validation
+
+**Technologies:** Apache Tomcat, Linux, Java, Bash, Ansible, YAML, ShellCheck, GitHub Actions
+
+[View the Apache Tomcat Operations project](https://github.com/solonsah/apache-tomcat-operations)
+
+
