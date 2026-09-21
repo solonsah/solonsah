@@ -180,3 +180,21 @@ A modular Terraform project that models a secure and highly available AWS web ti
 **Technologies:** AWS, Terraform, VPC, EC2, Auto Scaling, Application Load Balancer, Security Groups, EBS, GitHub Actions
 
 [View the Secure AWS Web Infrastructure project](https://github.com/solonsah/aws-secure-web-infrastructure)
+
+
+### [Linux Vulnerability Audit](https://github.com/solonsah/linux-vulnerability-audit)
+
+A safety-focused Linux auditing toolkit for discovering vulnerable and unsupported software versions.
+
+- Read-only Linux software discovery
+- RPM package and version inventory
+- Log4j, Tomcat, OpenSSL, and Java detection
+- Bash and Ansible-based auditing
+- CSV reporting with sensitive output excluded from Git
+- Automated ShellCheck, YAML, and Ansible validation
+
+**Technologies:** Linux, Bash, Ansible, YAML, ShellCheck, GitHub Actions
+
+[View the Linux Vulnerability Audit project](https://github.com/solonsah/linux-vulnerability-audit)
+
+
