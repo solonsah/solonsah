@@ -213,4 +213,19 @@ A production-oriented framework for safely managing, validating, securing, and u
 
 [View the Apache Tomcat Operations project](https://github.com/solonsah/apache-tomcat-operations)
 
+### [Linux Observability Lab](https://github.com/solonsah/linux-observability-lab)
+
+A practical Linux observability lab for monitoring system health, performance, logs, and service availability.
+
+- Prometheus and Node Exporter monitoring design
+- Grafana dashboard for core Linux health indicators
+- CPU, memory, filesystem, availability, and systemd alerts
+- Read-only Bash and Ansible operational checks
+- Alert-response and escalation runbook
+- Automated ShellCheck, YAML, JSON, Prometheus, and Ansible validation
+
+**Technologies:** Linux, Prometheus, PromQL, Grafana, Node Exporter, Bash, Ansible, YAML, JSON, GitHub Actions
+
+[View the Linux Observability Lab project](https://github.com/solonsah/linux-observability-lab)
+
 
