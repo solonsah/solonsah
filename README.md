@@ -228,4 +228,23 @@ A practical Linux observability lab for monitoring system health, performance, l
 
 [View the Linux Observability Lab project](https://github.com/solonsah/linux-observability-lab)
 
+### [AWS Hybrid Infrastructure](https://github.com/solonsah/aws-hybrid-infrastructure)
+
+A modular Terraform framework for secure hybrid connectivity between simulated on-premises networks and highly available AWS infrastructure.
+
+Key capabilities:
+
+- Multi-AZ VPC with segmented public and private subnets
+- Optional highly available NAT gateway design
+- Optional AWS Site-to-Site VPN connectivity
+- Restricted ingress and egress security-group rules
+- Optional VPC Flow Logs with least-privilege IAM
+- Cost-aware defaults and deployment-safety controls
+- Automated Terraform formatting and validation
+- Sanitized configuration with no credentials or workplace data
+
+Technologies: Terraform, HCL, AWS VPC, Site-to-Site VPN, IAM, CloudWatch Logs, PowerShell, GitHub Actions
+
+[View the AWS Hybrid Infrastructure project](https://github.com/solonsah/aws-hybrid-infrastructure)
+
 
