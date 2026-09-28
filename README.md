@@ -247,4 +247,22 @@ Technologies: Terraform, HCL, AWS VPC, Site-to-Site VPN, IAM, CloudWatch Logs, P
 
 [View the AWS Hybrid Infrastructure project](https://github.com/solonsah/aws-hybrid-infrastructure)
 
+### [RHEL Security Hardening](https://github.com/solonsah/rhel-security-hardening)
+
+An audit-first Ansible framework for applying STIG-aligned security controls to RHEL systems with explicit approval gates, configuration backups, post-change validation, and protected rollback.
+
+**Key capabilities:**
+
+- Audits SELinux, OpenSSH, auditd, firewalld, and password-policy settings
+- Keeps all remediation control families disabled by default
+- Requires change approval, recovery access, and SSH-key confirmation
+- Processes one host at a time to limit operational impact
+- Validates SSH configuration before reloading the service
+- Provides timestamped backups and controlled rollback
+- Runs automated YAML, Ansible lint, and syntax validation in GitHub Actions
+
+**Technologies:** Ansible, YAML, Bash, RHEL, SELinux, OpenSSH, auditd, firewalld, GitHub Actions
+
+[View the RHEL Security Hardening project](https://github.com/solonsah/rhel-security-hardening)
+
 
