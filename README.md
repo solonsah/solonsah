@@ -1,84 +1,129 @@
 ## Hi there 👋
+
 # Solomon Nsah
 
 ## Senior Linux Infrastructure Engineer
 
-I am a Senior Linux Infrastructure Engineer with eight-plus years of experience supporting Linux systems, automation, security hardening, virtualization, cloud infrastructure, monitoring, and production operations.
+I am a Senior Linux Infrastructure Engineer with 8+ years of experience designing, securing, automating, modernizing, and supporting enterprise Linux infrastructure across physical, virtual, on-premises, and AWS environments.
 
-My work focuses on designing secure, reliable, repeatable, and well-documented infrastructure solutions. I have experience supporting physical, virtual, on-premises, and cloud-based environments.
+My work focuses on Red Hat Enterprise Linux, infrastructure automation, security hardening, high availability and clustering, virtualization and platform migrations, cloud infrastructure, monitoring and observability, storage, networking, middleware, and production operations.
+
+I build secure, reliable, repeatable, and well-documented infrastructure solutions with an emphasis on automation, operational consistency, controlled change, validation, and recoverability.
 
 ## Technical Skills
 
-- **Operating Systems:** Red Hat Enterprise Linux 7, 8 and 9; Windows Server
-- **Automation:** Ansible, Bash, GitHub Actions
-- **Virtualization:** KVM, QEMU, libvirt, VMware ESXi, Microsoft Hyper-V
+- **Operating Systems:** Red Hat Enterprise Linux (RHEL 7/8/9/10), CentOS, AlmaLinux, Amazon Linux, Windows Server
+- **Automation & Infrastructure as Code:** Ansible, Terraform, Bash/Shell Scripting, YAML, PowerShell, GitHub Actions
+- **Virtualization & Containers:** KVM, QEMU, libvirt, VMware ESXi, vSphere, Microsoft Hyper-V, Proxmox, Docker
+- **High Availability & Clustering:** Red Hat High Availability Add-On, Pacemaker, Corosync, HAProxy, Keepalived, Apache HTTPD Clustering, Load Balancing, Service Failover
 - **Cloud Platforms:** AWS, Microsoft Azure
-- **Linux Administration:** Systemd, LVM, XFS, SSH, firewalld, SELinux, DNF and YUM
-- **Web and Application Servers:** Apache HTTP Server, Apache Tomcat
-- **Databases:** MariaDB, MySQL
-- **Monitoring:** Prometheus, Grafana, Datadog, Dynatrace, CloudWatch
-- **Security:** STIG implementation, vulnerability remediation, system hardening
-- **DevOps Tools:** Git, GitHub, VS Code
+- **Linux Administration:** systemd, RPM, YUM/DNF, Cron, LVM, XFS, ext4, NFS, SSH/SCP, firewalld, SELinux, performance tuning, capacity planning
+- **Web & Middleware:** Apache HTTP Server, Apache Tomcat, COTS Application Support
+- **Databases:** MariaDB, MySQL, PostgreSQL, MongoDB, Oracle Database
+- **Monitoring & Observability:** Prometheus, Grafana, Nagios, Datadog, Dynatrace, Elasticsearch, Splunk, AWS CloudWatch, APM
+- **Security & Compliance:** DISA STIG, SCAP/OpenSCAP, SELinux, auditd, vulnerability management and remediation, system hardening, IAM, RBAC, SSO, SAML, SSL/TLS
+- **Networking:** TCP/IP, DNS, DHCP, IPAM, routing, load balancing, VPN, Security Groups, NACLs
+- **DevOps & IT Operations:** Git, GitHub, Jenkins, Bitbucket, Azure DevOps, ServiceNow, Jira, CI/CD, Change Management, CMDB
 
 ## Core Technical Skills
 
 ### Linux and Systems Administration
 
-* Red Hat Enterprise Linux 7, 8, and 9
-* Amazon Linux
-* System installation, configuration, maintenance, and troubleshooting
+* Red Hat Enterprise Linux 7, 8, 9, and 10
+* CentOS, AlmaLinux, and Amazon Linux
+* System installation, provisioning, configuration, maintenance, and troubleshooting
 * Package, kernel, service, process, and lifecycle management
 * User, group, permissions, sudo, and SSH administration
-* LVM, XFS, ext4, NFS, storage expansion, and filesystem recovery
-* DNS, DHCP, routing, firewalld, iptables, and network troubleshooting
+* LVM, XFS, ext4, NFS, NAS, SAN, RAID, storage expansion, and filesystem recovery
+* DNS, DHCP, IPAM, TCP/IP, routing, firewalld, and network troubleshooting
+* Performance tuning, capacity planning, and resource optimization
 
 ### Automation and Infrastructure as Code
 
 * Ansible
-* Bash scripting
 * Terraform
+* Bash/Shell scripting
+* YAML
+* PowerShell
 * Cron and systemd automation
 * Automated patching, configuration management, health checks, and reporting
 * Repeatable deployment, validation, and rollback workflows
 
+### High Availability and Clustering
+
+* Red Hat High Availability Add-On
+* Pacemaker and Corosync
+* HAProxy
+* Keepalived
+* Clustered Apache HTTPD nodes
+* Load balancing and service failover
+* Cluster node administration and health validation
+* High-availability application infrastructure
+
 ### Security and Compliance
 
-* Security Technical Implementation Guides
-* OpenSCAP and vulnerability remediation
+* DISA Security Technical Implementation Guides (STIG)
+* SCAP/OpenSCAP compliance validation
+* Vulnerability discovery, analysis, remediation, and validation
 * SELinux and auditd
-* System hardening
+* System hardening and security baselines
 * Identity and access management
 * Role-based access control
-* TLS and certificate management
-* Vulnerability discovery, validation, and remediation
+* SSO, SAML, and MFA
+* SSL/TLS and certificate management
+* Security event analysis and incident response
 
 ### Cloud and Virtualization
 
 * Amazon Web Services
 * Microsoft Azure
 * KVM, QEMU, and libvirt
-* VMware and Hyper-V
-* EC2, EBS, S3, RDS, IAM, VPC, Route 53, and CloudWatch
+* VMware ESXi and vSphere
+* Microsoft Hyper-V
+* Proxmox
+* EC2, AMI, EBS, S3, RDS, IAM, VPC, ELB, Route 53, and CloudWatch
+* Internet Gateways, NAT, public/private subnets, route tables, Security Groups, and NACLs
 * Virtual machine provisioning, migration, backup, and recovery
+* Hyper-V to KVM platform migrations
 
 ### Application Platforms
 
 * Apache HTTP Server
 * Apache Tomcat
 * MariaDB and MySQL
-* Docker and Kubernetes
-* Application deployment, upgrades, TLS configuration, and troubleshooting
+* Oracle Database
+* Docker
+* COTS application support
+* Application deployment and upgrades
+* SSL/TLS configuration
+* Application and middleware troubleshooting
 
 ### Monitoring and Reliability
 
 * Prometheus and Grafana
+* Nagios
 * Datadog
 * Dynatrace
+* Elasticsearch
 * Splunk
 * AWS CloudWatch
+* Application Performance Monitoring
+* Log analysis
 * Incident response
 * Root-cause analysis
 * Performance monitoring and capacity planning
+* 24x7 production operations
+
+### Storage, Backup, and Recovery
+
+* LVM, NFS, NAS, SAN, and RAID
+* Rubrik
+* NetBackup
+* GoodSync
+* AOMEI Backup & Replication
+* Backup validation and recovery
+* Storage capacity management
+* Disaster-recovery runbooks
 
 ## Portfolio Projects
 
@@ -89,7 +134,7 @@ My work focuses on designing secure, reliable, repeatable, and well-documented i
 5. Apache and Tomcat operations
 6. Linux observability and incident-response lab
 7. AWS hybrid-infrastructure deployment
-8. Highly available application-infrastructure lab
+8. Highly available Linux application-infrastructure lab
 
 ## Engineering Approach
 
@@ -101,15 +146,17 @@ I approach infrastructure work using:
 * Phased and controlled implementation
 * Change control and documented approvals
 * Backup and rollback planning
-* Post-change system and application validation
-* Clear runbooks, implementation plans, and technical documentation
+* Post-change infrastructure and application validation
+* Root-cause analysis following production incidents
+* Clear SOPs, runbooks, implementation plans, and technical documentation
 
 ## Professional Focus
 
 I am interested in opportunities including:
 
-* Senior Linux Systems Engineer
-* Senior Systems Administrator
+* Senior Linux Engineer
+* Senior Linux Infrastructure Engineer
+* Senior Systems Engineer
 * Cloud Infrastructure Engineer
 * Platform Engineer
 * Site Reliability Engineer
