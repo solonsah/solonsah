@@ -265,4 +265,25 @@ An audit-first Ansible framework for applying STIG-aligned security controls to 
 
 [View the RHEL Security Hardening project](https://github.com/solonsah/rhel-security-hardening)
 
+### [Restaurant High-Availability Infrastructure](https://github.com/solonsah/restaurant-ha-infrastructure)
+
+A production-oriented Linux framework for operating Apache HTTPD across a load-balanced, multi-tier environment with shared storage, database connectivity, monitoring, validation, and controlled recovery.
+
+**Key capabilities:**
+
+- Distributes traffic through redundant HAProxy nodes
+- Supports four Apache HTTPD web nodes with health checks
+- Configures persistent NFS client mounts with safer mount options
+- Validates MariaDB network connectivity without storing credentials
+- Manages narrowly scoped firewalld access
+- Generates Prometheus file-discovery targets
+- Requires approval, backups, recovery access, and restricted host limits
+- Processes deployment and rollback one host at a time
+- Validates configurations before service reloads
+- Runs automated YAML, ShellCheck, Ansible lint, and playbook syntax checks
+
+**Technologies:** Linux, RHEL, Ansible, HAProxy, Apache HTTPD, NFS, MariaDB, Prometheus, Node Exporter, firewalld, Bash, GitHub Actions
+
+[View the Restaurant High-Availability Infrastructure project](https://github.com/solonsah/restaurant-ha-infrastructure)
+
 
