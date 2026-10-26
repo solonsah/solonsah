@@ -333,4 +333,28 @@ A production-oriented Linux framework for operating Apache HTTPD across a load-b
 
 [View the Restaurant High-Availability Infrastructure project](https://github.com/solonsah/restaurant-ha-infrastructure)
 
+### [RHEL High-Availability Cluster](https://github.com/solonsah/rhel-high-availability-cluster)
+
+A safety-oriented automation framework for designing, auditing, deploying, validating, and recovering a three-node RHEL cluster with Pacemaker, Corosync, PCS, and STONITH.
+
+**Key capabilities:**
+
+- Models three-node majority quorum and split-brain protection
+- Requires approved STONITH fencing before workload deployment
+- Automates Pacemaker and Corosync configuration through Ansible
+- Manages a floating virtual IP and clustered Apache HTTPD service
+- Supports explicit ordering and colocation constraints
+- Provides an optional Pacemaker resource-group model
+- Installs cluster packages one node at a time
+- Requires approval, backups, recovery access, and a maintenance window
+- Performs read-only auditing and post-change validation
+- Provides controlled PCS configuration rollback
+- Runs automated YAML, ShellCheck, Ansible lint, and playbook syntax checks
+
+**Technologies:** RHEL, Linux, Ansible, Pacemaker, Corosync, PCS, STONITH, Apache HTTPD, Bash, GitHub Actions
+
+**Status:** Designed and statically validated; live RHEL cluster and fencing tests remain required.
+
+[View the RHEL High-Availability Cluster project](https://github.com/solonsah/rhel-high-availability-cluster)
+
 
